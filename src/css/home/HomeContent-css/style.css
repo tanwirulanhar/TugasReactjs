@@ -1,0 +1,13 @@
+.Home-Content-Wrapper {
+    padding: 20px;
+}
+
+.Home-Content-Wrapper h1 {
+    font-size: 60px;
+}
+
+.Home-Content-Wrapper p {
+    font-size: 20px;
+    padding-top: 10px;
+    
+}

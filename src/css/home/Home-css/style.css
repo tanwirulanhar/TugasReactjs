@@ -1,0 +1,30 @@
+.home-wrapper {
+    margin-left: 71px;
+    margin-right: 80px;
+    margin-top: 5px;
+}
+
+.home-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.home-content-1 {
+    margin-top:200px;
+    margin-right: 40px;
+}
+
+.home-image {
+    margin-left: 20px;
+    width: 500px;
+}
+
+.home-image-wrapper img {
+    padding: 20px;
+    margin-left: 50px;
+    height: 700px;
+    width: 500px;
+    
+}
+

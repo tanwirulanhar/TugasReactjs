@@ -1,0 +1,6 @@
+.About-wrapper {
+    display: flex;
+    margin-left: 71px;
+    margin-right: 80px;
+    justify-content: space-between;
+}

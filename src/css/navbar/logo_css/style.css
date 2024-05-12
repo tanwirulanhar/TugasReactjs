@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Navbar-logo {
+    margin-top: 58px;
+    
+}
+
+.Navbar-logo h1 {
+    font-size: 40px;
+    color: #664C47;
+}

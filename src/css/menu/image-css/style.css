@@ -1,0 +1,36 @@
+.card-container  img{
+    background-color: #ECD8BB;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 400px;
+    width: 300px;
+}
+
+.card-pertama {
+    background-color: #FFF2E0;
+    margin: 30px;
+    border: none;
+    border-radius: 15px;
+    width: 500px;
+    height: 555px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card-1 h1  {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    text-align: left;
+}
+
+.card-1 p {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.button-1 {
+    padding-left: 120px;
+    
+}

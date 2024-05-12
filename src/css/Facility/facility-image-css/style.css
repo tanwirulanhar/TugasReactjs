@@ -1,0 +1,27 @@
+.facility-img {
+    display: flex;
+    margin-left: 30px;
+    
+ 
+}
+
+.img-1 img {
+    margin-right: 20px;
+    height: 615px;
+    width: 500px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+.img-2 img {   
+    height: 300px;
+    width: 500px;
+    padding-bottom: 10px; 
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
